@@ -41,7 +41,7 @@ Explore new physical phenomena in advanced materials
 Accelerate innovation in thermal management and nanoscale devices
 
 
-Simulation Code Example
+Simulation Code Example:
 
 # thermal_wave_simulation.py    
 # Baseline 1D thermal transport model (Fourier framework)    
